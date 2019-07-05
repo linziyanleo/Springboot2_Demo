@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2329b14c-9ff0-48b8-96b1-4f24b522a8d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-pro-default.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2329b14c-9ff0-48b8-96b1-4f24b522a8d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,6 +130,32 @@
               <item name="Springboot2_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restfuluser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot2_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot2_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restfuluser" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot2_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot2_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restfuluser" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot2_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot2_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -209,7 +229,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="23" width="1070" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26459143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
